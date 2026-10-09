@@ -1,0 +1,16 @@
+{
+  "name":"Benteng Bilangan - Petualangan Pengurangan",
+  "short_name":"Benteng Bilangan",
+  "description":"Game matematika pengurangan untuk Kelas 2 MIS Annajiyah.",
+  "lang":"id-ID",
+  "start_url":"./",
+  "scope":"./",
+  "display":"standalone",
+  "orientation":"portrait",
+  "background_color":"#eef0ff",
+  "theme_color":"#33258f",
+  "icons":[
+    {"src":"./icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"./icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
